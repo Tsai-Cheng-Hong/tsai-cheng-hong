@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tsai-cheng-hong
-- 👀 I’m interested in National Chung Cheng University now
+- 👀 I’m studying in National Chung Cheng University now
 - 🌱 I’m currently learning deep learning & IC design
 
 <!---
