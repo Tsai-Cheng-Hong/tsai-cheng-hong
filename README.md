@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @tsai-cheng-hong
-- 👀 I’m studying in National Chung Cheng University now
 - 🌱 I’m currently learning deep learning & IC design
 
 <!---
